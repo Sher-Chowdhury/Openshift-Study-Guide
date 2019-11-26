@@ -107,7 +107,7 @@ oc whoami
 You can open openshift web console:
 
 ```
-oc console
+crc console
 ```
 
 Create new project:
