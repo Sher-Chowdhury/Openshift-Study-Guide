@@ -125,4 +125,8 @@ $ oc new-project hello-openshift \
 ```
 
 
+main difference between kubernetes and openshift:
+
+https://www.reddit.com/r/k8s/comments/fefgv5/kubernetes_versus_openshift_a_developers/
+
 
